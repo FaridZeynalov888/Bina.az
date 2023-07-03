@@ -1,0 +1,71 @@
+body{background-color: #f4f2ef}
+#ad-1 .figure{
+    width: 350px;
+    height: 350px;
+}
+#ad-1 .figure img{
+    width: 100%;
+    height: 100%;
+}
+.figure{
+    position: relative;
+}
+.owner{
+    bottom: 20px;
+    position: absolute;
+    background-color: #4264fd;
+    color: #fff;
+    padding: 7px 20px;
+}
+img{
+    position: relative;
+}
+.figure i{
+    font-size: 25px;
+    color: #fff;
+}
+.like-icon{
+    position: absolute;
+    top: 10px;
+    margin-left: -35px;
+}
+.repair{
+    position: absolute;
+    top: 10px;
+    margin-left: -340px;
+}
+.vip{
+    position: absolute;
+    bottom: 15px; 
+    margin-left: -35px;
+}
+.information{
+    background-color: #fff;
+}
+.information .home-information span{
+    font-size: 10px;
+    vertical-align: text-top;
+}
+.date{
+    color: #98918a;
+}
+.price{
+    font-size: 20px;
+}
+.address{
+    margin-top: 10px;
+}
+.home-information{
+    margin-bottom: 10px;
+}
+#ad-2 .figure{
+    width: 350px;
+    height: 350px;
+    margin-left: 400px;
+    bottom: 350px;
+}
+#ad-2 .figure img{
+    width: 100%;
+    height: 100%;
+}
+
